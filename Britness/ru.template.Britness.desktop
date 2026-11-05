@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.Britness
+Exec=/usr/bin/ru.template.Britness
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=Sensors;DeviceInfo;Camera
+OrganizationName=ru.template
+ApplicationName=Britness
+ExecDBus=/usr/bin/ru.template.Britness

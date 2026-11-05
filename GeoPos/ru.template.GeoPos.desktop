@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.GeoPos
+Exec=/usr/bin/ru.template.GeoPos
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=Sensors;DeviceInfo;Location;UserDirs;Internet;
+OrganizationName=ru.template
+ApplicationName=GeoPos
+ExecDBus=/usr/bin/ru.template.GeoPos
